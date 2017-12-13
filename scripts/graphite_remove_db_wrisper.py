@@ -11,7 +11,7 @@ mypath = '/var/lib/graphite/whisper/collectd'
 admin_id = 'bcfb67cf1d3947ae8e87ef66087a68a9'
 admin_pass = 'Welcome123'
 admin_project_id = 'e42a00c2ba6c4bbaa4bf4d8d22e260c2'
-ssl = https
+ssl = 'https'
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
